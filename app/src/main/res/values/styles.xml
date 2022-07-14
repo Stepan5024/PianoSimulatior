@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App" parent="Theme.Material3.DayNight">
+
+        <item name="colorSurface">#B3E5FC</item>
+        <item name="colorOnSurfaceVariant">@color/shrine_blue_900</item>
+        <item name="bottomNavigationStyle">@style/Widget.App.BottomNavigationView</item>
+    </style>
+    <style name="Widget.App.BottomNavigationView" parent="Widget.Material3.BottomNavigationView">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.BottomNavigationView</item>
+    </style>
+
+    <style name="ThemeOverlay.App.BottomNavigationView" parent="">
+        <item name="colorSurface">@color/shrine_blue_100</item>
+        <item name="colorOnSurfaceVariant">@color/shrine_blue_900</item>
+    </style>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <style name="MyCardViewStyle" parent="Theme.AppCompat.Light">
+        <item name="cardCornerRadius">50dp</item>
+        <item name="cardElevation">20dp</item>
+        <item name="cardMaxElevation">40dp</item>
+        <item name="contentPaddingBottom">24dp</item>
+        <item name="contentPaddingTop">24dp</item>
+        <item name="contentPaddingLeft">16dp</item>
+        <item name="contentPaddingRight">16dp</item>
+        <item name="cardBackgroundColor">@color/light_telegraph</item>
+
+    </style>
+    <style name="black_piano_key_style">
+        <item name="android:layout_height">110dp</item>
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_marginTop">150dp</item>
+        <item name="android:background">@drawable/black_piano_key_selector</item>
+        <item name="android:layout_marginLeft">-14dp</item>
+    </style>
+    <color name="light_telegraph">#CFCAD4</color>
+    <color name="shrine_blue_100">#9C27B0</color>
+    <color name="shrine_blue_900">#01579B</color>
+</resources>

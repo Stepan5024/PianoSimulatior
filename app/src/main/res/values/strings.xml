@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PianoSimulatior</string>
+    <string name="menu_main_text">Главная</string>
+    <string name="menu_learn_note">Освоить ноты</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment Quize</string>
+    <string name="text_simulition_piano">Симулятор пианино</string>
+    <string name="text_record"><u>Запишите</u></string>
+    <string name="text_learn"><u>научитесь</u></string>
+    <string name="text_learn_play_on_piano">Научитесь играть на пианино любимую музыку</string>
+    <string name="text_learn_notes">Освойте ноты и клавиши</string>
+    <string name="text_not_anything">Ещё ничего нет?</string>
+    <string name="text_or">или</string>
+    <string name="text_play">играть</string>
+    <string name="text_music_list">Музыкальный лист</string>
+    <string name="text_learn_notes_and_music">Освойте ноты и их звучание</string>
+    <string name="text_notes_stan">Нотный стан</string>
+    <string name="text_music_notes">Звук ноты</string>
+    <string name="text_key_solfedgio">Ключ сольфеджио</string>
+    <string name="save_counts">Сохранить счет</string>
+    <string name="text_max_count_0_for_10">/ 10</string>
+    <string name="text_score">Счёт:</string>
+    <string name="text_for_0">0</string>
+    <string name="text_note_do_ru">до</string>
+    <string name="text_note_c_en">c</string>
+    <string name="text_note_re_ru">ре</string>
+    <string name="text_note_d_en">d</string>
+    <string name="text_note_mi_ru">ми</string>
+    <string name="text_note_e_en">e</string>
+    <string name="text_note_fa_ru">фа</string>
+    <string name="text_note_f_en">f</string>
+    <string name="text_note_sol_ru">соль</string>
+    <string name="text_note_g_en">g</string>
+    <string name="text_note_lya_ru">ля</string>
+    <string name="text_note_a_en">a</string>
+    <string name="text_note_si_ru">си</string>
+    <string name="text_note_b_en">b</string>
+    <string-array name="cat_names">
+        <item>Рыжик</item>
+        <item>Барсик</item>
+        <item>Мурзик</item>
+        <item>Мурка</item>
+        <item>Васька</item>
+        <item>Томасина</item>
+        <item>Кристина</item>
+        <item>Пушок</item>
+        <item>Дымка</item>
+        <item>Кузя</item>
+        <item>Китти</item>
+        <item>Масяня</item>
+        <item>Симба</item>
+    </string-array>
+</resources>

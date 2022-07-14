@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_home"
+        android:enabled="true"
+        android:state_checked="true"
+        android:icon="@drawable/home_fill_light"
+        android:title="@string/menu_main_text"/>
+    <item
+        android:id="@+id/page_quize"
+        android:enabled="true"
+        android:icon="@drawable/lyrics_nonfill_light"
+        android:title="@string/menu_learn_note"/>
+    <item
+        android:id="@+id/page_piano_mode"
+        android:enabled="true"
+        android:icon="@drawable/piano_nonfill_light"
+        android:title="@string/text_simulition_piano"/>
+</menu>
